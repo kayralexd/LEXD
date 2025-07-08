@@ -52,7 +52,7 @@ LEXD, Android cihazlar için geliştirilmiş bir video indirme istemcisidir. Uyg
 **Kayra Yasak**  
 📸 Instagram: [@user_kayra0](https://www.instagram.com/user_kayra0/)  
 💻 GitHub: [@kayralexd](https://github.com/kayralexd)  
-🔗 LinkedIn: [linkedin.com/in/kayra-yasak-8956b3357](https://www.linkedin.com/in/kayra-yasak-8956b3357/)
+🔗 LinkedIn: [Kayra YASAK](https://www.linkedin.com/in/kayra-yasak-8956b3357/)
 
 ---
 
